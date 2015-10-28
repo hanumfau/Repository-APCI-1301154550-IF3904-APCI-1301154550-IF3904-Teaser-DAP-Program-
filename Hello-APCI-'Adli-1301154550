@@ -3,10 +3,10 @@
             Begin
                 ClrScr;
                 Writeln(‘Hello’);//untuk mengeluarkan string ‘Hello’ di layar
-                Writeln(‘NIM’); //Ubah untuk menampilkan NIM Anda
-                Writeln(‘Nama’); //Ubah untuk menampilkan Nama Anda
-                Writeln(‘Kelas’); //Ubah untuk menampilkan Kelas Anda
-                Writeln(‘Asprak’); //Ubah untuk menampilkan Nama Asprak Anda
-                Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
+                Writeln(‘NIM’); //Ubah untuk menampilkan 1301154550
+                Writeln(‘Nama’); //Ubah untuk menampilkan Hanum Fauziah Ramadhanti
+                Writeln(‘Kelas’); //Ubah untuk menampilkan IF 39-04
+                Writeln(‘Asprak’); //Ubah untuk menampilkan 'Adli
+                Writeln(‘NIM Teman’); //Ubah untuk menampilkan 1301154452
                 Writeln(‘Modul 10’); //Ubah untuk menampilkan string ‘Modul 6
             End.
